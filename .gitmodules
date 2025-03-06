@@ -31,3 +31,6 @@
 [submodule "4_javascript-exercises"]
 	path = 4_javascript-exercises
 	url = git@github.com:Sandeep-K-Suthar/javascript-exercises.git
+[submodule "5_dynamic-shopping-list"]
+	path = 5_dynamic-shopping-list
+	url = git@github.com:Sandeep-K-Suthar/odin-dynamic-shopping-list.git
