@@ -1,6 +1,6 @@
 ## TheOdinProject Entire CourseWork Progress
 
-TheOdinProject is an open source curriculum from the open source loving dev and community.
+TheOdinProject is an open source curriculum from the open source loving devs and it's community.
 
 Open source curriculum which I covered here is Full Stack JavaScript with comprehensive Basics and Advanced concepts in HTML, CSS, DOM and JavaScript.
 
