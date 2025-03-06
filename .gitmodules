@@ -1,6 +1,3 @@
-[submodule "odin-landing-page"]
-	path = odin-landing-page
-	url = git@github.com:Sandeep-K-Suthar/odin-landing-page.git
 [submodule "odin-rock-paper-scissors"]
 	path = odin-rock-paper-scissors
 	url = git@github.com:Sandeep-K-Suthar/odin-rock-paper-scissors.git
