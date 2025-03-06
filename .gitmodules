@@ -22,3 +22,6 @@
 [submodule "3_rock-paper-scissors"]
 	path = 3_rock-paper-scissors
 	url = git@github.com:Sandeep-K-Suthar/odin-rock-paper-scissors.git
+[submodule "1_git-test"]
+	path = 1_git-test
+	url = git@github.com:Sandeep-K-Suthar/odin-git-test.git
