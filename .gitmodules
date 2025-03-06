@@ -7,3 +7,6 @@
 [submodule "odin-rock-paper-scissors"]
 	path = odin-rock-paper-scissors
 	url = git@github.com:Sandeep-K-Suthar/odin-rock-paper-scissors.git
+[submodule "javascript-exercises"]
+	path = javascript-exercises
+	url = git@github.com:Sandeep-K-Suthar/javascript-exercises.git
