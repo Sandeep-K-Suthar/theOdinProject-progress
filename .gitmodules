@@ -1,0 +1,3 @@
+[submodule "odin-git-test"]
+	path = odin-git-test
+	url = git@github.com:Sandeep-K-Suthar/odin-git-test.git
