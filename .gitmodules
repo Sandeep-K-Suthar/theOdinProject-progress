@@ -1,3 +1,6 @@
 [submodule "odin-git-test"]
 	path = odin-git-test
 	url = git@github.com:Sandeep-K-Suthar/odin-git-test.git
+[submodule "odin-landing-page"]
+	path = odin-landing-page
+	url = git@github.com:Sandeep-K-Suthar/odin-landing-page.git
