@@ -28,3 +28,6 @@
 [submodule "2_landing-page"]
 	path = 2_landing-page
 	url = git@github.com:Sandeep-K-Suthar/odin-landing-page.git
+[submodule "4_javascript-exercises"]
+	path = 4_javascript-exercises
+	url = git@github.com:Sandeep-K-Suthar/javascript-exercises.git
