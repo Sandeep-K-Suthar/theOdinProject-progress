@@ -16,3 +16,6 @@
 [submodule "1_odin-git-test"]
 	path = 1_odin-git-test
 	url = git@github.com:Sandeep-K-Suthar/odin-git-test.git
+[submodule "2_odin-landing-page"]
+	path = 2_odin-landing-page
+	url = git@github.com:Sandeep-K-Suthar/odin-landing-page.git
