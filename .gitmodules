@@ -13,3 +13,6 @@
 [submodule "5_dynamic-shopping-list"]
 	path = 5_dynamic-shopping-list
 	url = git@github.com:Sandeep-K-Suthar/odin-dynamic-shopping-list.git
+[submodule "6_odin-project-etch-a-sketch"]
+	path = 6_odin-project-etch-a-sketch
+	url = git@github.com:Sandeep-K-Suthar/odin-project-etch-a-sketch.git
