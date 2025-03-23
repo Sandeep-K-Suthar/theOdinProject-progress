@@ -16,3 +16,6 @@
 [submodule "6_odin-project-etch-a-sketch"]
 	path = 6_odin-project-etch-a-sketch
 	url = git@github.com:Sandeep-K-Suthar/odin-project-etch-a-sketch.git
+[submodule "7_odin-project-calculator"]
+	path = 7_odin-project-calculator
+	url = git@github.com:Sandeep-K-Suthar/odin-project-calculator.git
